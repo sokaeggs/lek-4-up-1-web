@@ -1,0 +1,37 @@
+body {
+    background-image: url("img/showcase.jpg");
+}
+
+h1 {
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    font-family: monospace;
+}
+
+.artikel {
+    background-color: lightgray;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+.artikel h2 {
+    font-size: 14px;
+}
+
+.artikel img {
+    width: 100px;
+}
+
+.artikel p {
+    font-size: 10px;
+}
+
+.sidfot {
+    background-image: url("img/logo-html-css-js.png");
+    background-repeat: no-repeat;
+    height: 100px;
+    background-position: center;
+}
